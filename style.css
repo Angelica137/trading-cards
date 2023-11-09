@@ -25,3 +25,12 @@
 .snippet {
 	font-style: italic;
 }
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.label {
+	font-weight: bold;
+}
