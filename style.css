@@ -3,5 +3,6 @@
 }
 .animal{
 	width: 336px;
-	height: 134px;
+	height: 230px;
+	object-fit: cover;
 }
