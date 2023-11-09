@@ -1,21 +1,26 @@
 .card {
-	border: 1px solid #CECECE;
-	width: 368px;
 	box-shadow: 8px 8px rgba(230, 230, 230, 0.80);
 }
 
-.content{
-	width:336px;
+.outline {
+	border: 1px solid #CECECE;
 	padding: 16px;
+}
+
+.width-1 {
+	width: 368px;
 }
 
 .animal{
-	width: 336px;
 	height: 230px;
 	object-fit: cover;
-	padding: 16px;
+	padding-bottom: 16px;
 }
 
-.cardborder {
-	border: 1px solid #CECECE;
+.copy {
+	width: 336px;
+}
+
+.snippet {
+	font-style: italic;
 }
