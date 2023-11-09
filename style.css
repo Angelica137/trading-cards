@@ -15,3 +15,7 @@
 	object-fit: cover;
 	padding: 16px;
 }
+
+.cardborder {
+	border: 1px solid #CECECE;
+}
