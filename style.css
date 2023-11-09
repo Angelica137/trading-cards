@@ -1,5 +1,7 @@
 .card {
 	border: 1px solid #CECECE;
+	width: 368px;
+	box-shadow: 0 4px 8px #E6E6E6;
 }
 
 .content{
