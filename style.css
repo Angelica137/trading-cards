@@ -1,8 +1,15 @@
 .card {
 	border: 1px solid #CECECE;
 }
+
+.content{
+	width:336px;
+	padding: 16px;
+}
+
 .animal{
 	width: 336px;
 	height: 230px;
 	object-fit: cover;
+	padding: 16px;
 }
